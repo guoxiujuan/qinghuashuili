@@ -1,0 +1,365 @@
+﻿
+/*Common For Max 960*/
+@media only screen and (max-width: 1365px) {
+
+    /*
+    -----------------[科研资源]--------------*/
+    .ul-list3 {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+    .ul-list3 li a{
+        margin: 0 20px 40px;
+    }
+}
+
+/*Common For Max 960*/
+@media only screen and (max-width: 1199px) {
+	.wp,.warp{width: 98%;}
+    /*招聘要求*/
+    .m-advertise ul{padding:0 40px;}
+    .m-advertise ul li p em{margin-right: 0; padding-left: 8px;}
+    /*招聘2*/
+    .m-introduce{padding: 0 5px;}     
+    .m-require .require_cont p{width: 90%;}
+    .m-require li span{left: 30px; top:30px;}
+    .m-require .require_cont{left: 110px; top: 25px;}
+
+    /*首页*/
+    .soBox{margin-right: 10px;}
+    .row-1 .col-c{padding: 45px 25px 0;}
+    .index-news .txt{padding: 20px 15px 0;}
+    .index-news .txt p {margin-bottom: 8px;}
+    .row-1 .col-r{padding: 45px 15px 43px;}
+
+    /*清华科研项目-列表*/
+    .ul-list-1{margin: 40px -8px 10px;}
+    .ul-list-1 li{padding: 0 8px;}
+    .ul-list-1 .con{padding: 15px;}
+
+    /*清华新闻页*/
+    .ul-list-2 .date{margin-left: 40px;}
+    .ul-list-2 .txt{margin-left: 400px;}
+    .ul-list-2 .txt h3{font-size: 20px;}
+
+    /*
+    -----------------[清华研究方向页]--------------*/
+    .ul-list1 .txt{padding-left: 20px;}
+    .ul-list1 li:nth-child(2n) .txt {
+        padding-right: 20px;
+        padding-left: 0;
+    }
+
+     /*
+     -----------------[清华研究队伍页]--------------*/
+     .ul-list2 {
+         padding: 20px 0 0;
+         margin: 0 -5px;
+     }
+     .ul-list2 li{padding: 0 5px 10px;}
+     .ul-list2 .con {
+         padding: 15px 5px;
+     }
+     .ul-list2 .pic{margin-right: 5px;}
+ 
+}
+
+
+
+/*Common For Max 768*/
+@media only screen and (max-width: 959px) {
+    /*招聘要求*/
+    .m-advertise ul{padding:0 20px;}
+
+    /*招聘2*/
+    .m-require li{width:50%; margin-bottom:5px;}
+    .m-require .require_cont p{width: 90%;}
+    .m-require li span{left: 62px; top:66px;}
+    .m-require .require_cont{left: 140px; top: 50px;}
+
+    /*首页*/
+    .logo{line-height: 100px;}
+    .logo img{height: 55px;}
+    #hd .q-logo{line-height: 100px;}
+    #hd .q-logo img{height: 45px;}
+    #hd{height: 100px;}
+    .soBox{margin-top: 45px;}
+    .nav li{font-size: 14px;}
+    #banner{height: 350px;}
+    .row-1 .col-l{padding-right: 10px;}
+    .row-1 .col-c{padding: 45px 15px 0;}
+
+
+    /*清华科研项目*/
+    .m-article p{line-height: 26px;font-size: 14px;}
+    .m-article h4{font-size: 16px;}
+
+    /*清华科研项目-列表*/
+    .ul-list-1 li{width: 33.3%;}
+
+    /*清华新闻页*/
+    .ul-list-2 li{margin-bottom: 20px;}
+    .ul-list-2 .date{margin:15px 0 0 30px;}
+    .ul-list-2 .txt{margin-left: 380px;}
+    .ul-list-2 .txt h3{margin-top: 10px;}
+
+    /*
+    -----------------[科研资源]--------------*/
+    .m-page{margin-bottom: 20px;}
+    
+    .ul-list3{margin: 20px 0 0;}
+    .ul-list3 li a {
+        margin: 0 10px 20px;
+    }
+    .ul-list3 h3{
+        font-size: 16px;
+        line-height: 40px;
+    }
+    .ul-list3 .txt{
+        font-size: 14px;
+    }
+    .ul-list3 .txt .inner{padding: 0 10px;}
+    .ul-list3 .txt h4 {
+        font-size: 16px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    /*
+    -----------------[科研资源-下载页 - ]--------------*/
+    .m-down {
+        margin-bottom: 20px;
+        padding-top: 10px;
+    }
+    .m-down .date-nav{margin-bottom: 20px;font-size: 16px;padding: 0 30px;}
+    .m-down .date-nav .slick-prev{left: 5px;}
+    .m-down .date-nav .slick-next{right: 5px;}
+    .m-down .date-for {padding: 0;}
+    .ul-list4 li > a {
+        font-size: 14px;
+        line-height: 45px;
+        padding-left: 15px;
+        background-position: 5px center;
+    }
+    .ul-list4 .btn {padding-top: 12px;}
+    .ul-list4 .btn a {margin-left: 5px;}
+
+    /*
+    -----------------[清华研究方向页]--------------*/
+    .ul-list1 {
+        padding: 0 10px 10px;
+    }
+    .ul-list1 li {
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+    .ul-list1 li:nth-child(2n) .txt {padding: 0;}
+    .ul-list1 .pic {
+        width: 100%;
+        float: none;
+        padding-top: 0;
+        margin: 10px 0;
+    }
+    .ul-list1 .txt {
+        float: none;
+        width: 100%;
+        padding: 0;
+    }
+    .ul-list1 .txt h3 {
+        font-size: 18px;
+        line-height: 30px;
+        padding-bottom: 0;
+    }
+    
+    /*
+    -----------------[清华研究队伍页]--------------*/
+    .ul-list2 li{width: 50%;}
+    .ul-list2 .txt{
+        font-size: 13px;
+    }
+    .ul-list2 .txt h3{
+        font-size: 16px;
+    }
+    .ul-list2 .con span {
+        width: 60px;
+        font-size: 13px;
+        line-height: 24px;
+    }
+     
+}
+
+
+
+/*Common For Max 480*/
+@media only screen and (max-width: 767px) {
+    .m-require li{width:100%; margin-bottom:5px;}
+    #hd .q-logo{display: none;}
+    #hd{height: 60px;overflow: visible;z-index: 9999;}
+    #hd .hdr{position: static;}
+    .logo{line-height: 60px;}
+    .logo img{height: 45px;}
+    #hd .lang{width: 100px;}
+    #nv{position: absolute;top: 65px;left: 0;right: 0;z-index: 999;
+        background: rgba(0,0,0,.8);padding-top: 40px;display: none;
+    }
+    #nv .warp{width: auto;}
+    .menuBtn{display: block;position: absolute;right: 10px;top: 20px;}
+    .nav{}
+    .nav li{float: none;width: auto;height: 40px;}
+    .nav li .v1{line-height: 40px;color: #fff;}
+    .soBox{position: absolute;left: 20px;right: 20px;bottom: -33px;
+        margin-right: 0;width: auto;z-index: 999;display: none;
+    }
+    #banner{height: 300px;}
+    #banner .tit{margin-top: 60px;width: 295px;}
+    #banner .tit h2{font-size: 24px;}
+    #ban .tit{width: 295px;}
+    #ban .tit h2{font-size: 24px;}
+    #banner .txt{padding: 10px 0 5px 15px;}
+    #banner .txt p{padding-right: 15px;}
+    #banner .txt a{margin-right: 10px;}
+    .row-1 .col-l,.row-1 .col-c,.row-1 .col-r{width: auto;float: none;}
+    .row-1 .col-l:before{display: none;}
+    .row-1 .col-l{padding: 20px;}
+    .g-t1{margin-bottom: 10px;font-size: 20px;}
+    .m-list1 li{margin-bottom: 10px;}
+    .row-1 .col-c{padding: 20px 0 40px;}
+    .row-1 .col-c .g-t1{margin-left: 20px;}
+    .row-1 .col-r{padding: 20px;}
+    .index-results h4{margin-bottom: 10px;}
+    .index-results .pic{margin-bottom: 20px;}
+    .index-results p{height: auto;}
+    .fd-top{line-height: 24px;padding-top: 10px;}
+    .fd-top .txt{float: none;text-align: center;}
+    .fd-top .share{float: none;text-align: center;}
+    .fd-top .bdshare-button-style0-32 a{float: none;display: inline-block;}
+    .fd-top .txt span{background: 0;padding-right: 0;margin: 0 5px;}
+
+
+
+    .m-tab{text-align: center;margin-top: 0;}
+    .m-tab li{float: none;display: inline-block;margin: 0 15px 10px;}
+    .m-tab li a{padding-bottom: 10px;}
+
+
+    /*清华科研项目*/
+    .m-article{padding: 20px 10px 0;}
+    .m-article p{line-height: 24px;}
+    .m-article h4{padding: 15px 0;}
+
+    /*清华科研项目-列表*/
+    .ul-list-1{margin-top: 20px;}
+    .ul-list-1 li{margin-bottom: 15px;padding: 0 5px;width: 50%;}
+    .ul-list-1 .con{padding: 10px;}
+    .ul-list-1 h3{height: 48px;line-height: 24px;font-size: 16px;}
+    .ul-list-1 .date{margin-top: 0;line-height: 28px;}
+    .ul-list-1 p{margin-top: 10px;height: 40px;line-height: 20px;}
+    .ul-list-1 .more{margin-top: 10px;}
+    /*清华新闻页*/
+    .ul-list-2 .pic{float: none;width: auto;height: 0;padding-top: 62.59%;position: relative;}
+    .ul-list-2 img{position: absolute;top: 0;left: 0;display: block;width: 100%;height: 100%;}
+    .ul-list-2 .date{margin-left: 0;margin-top: 11px;width: 36px;font-size: 12px;}
+    .ul-list-2 .date em{height: 18px;line-height: 18px;font-size: 14px;}
+    .ul-list-2 .txt{margin-left: 55px;}
+    .ul-list-2 .txt h3{font-size: 18px;}
+
+    /*
+    -----------------[科研资源-下载页 - ]--------------*/
+    .m-down .date-nav {font-size: 14px;}
+    .ul-list4 li > a {
+        font-size: 12px;
+        line-height: 40px;
+    }
+    .ul-list4 .btn {padding-top: 9px;}
+    .ul-list4 .btn a{
+        width: 35px;
+        margin-left: 3px;
+    }
+
+    /*
+    -----------------[清华研究方向页]--------------*/
+    .ul-list1 .txt h3 {
+        font-size: 16px;
+        text-align: center;
+    }
+}
+
+
+/*Common For Max 480*/
+@media only screen and (max-width: 639px) {
+
+    /*
+    -----------------[科研资源]--------------*/
+    .ul-list3 li {
+        float: none;
+        width: 100%;
+    }
+    .ul-list3 li a {margin: 0 0 10px;}
+
+    /*
+    -----------------[清华研究队伍页]--------------*/
+    .ul-list2{margin: 0;}
+    .ul-list2 li{
+        float: none;
+        width: 100%;
+        padding: 0 0 10px;
+    }
+}
+
+
+/*Common For Max 320*/
+@media only screen and (max-width: 479px) {
+    /*招聘要求*/
+    .m-advertise ul li h3{font-size: 16px; line-height: 25px;}
+    .m-advertise ul li p span{font-size: 14px; line-height: 22px;}
+    /*招聘副本2图*/
+    .m-advertise ul{padding:0 10px;} 
+    .m-require .require_cont p{width: 90%; font-size: 14px;} 
+    .m-require li span{ left: 15px; top: 35px;}
+    .m-require .require_cont{ left: 95px; top:30px;}
+    .m-require .require_cont h3{font-size: 16px;}
+    .m-introduce ul li h3 a{line-height: 26px; font-size: 16px;}
+    .m-introduce ul li p{line-height: 22px; font-size: 14px;}
+    .m-require{padding-bottom: 0px;}
+
+    .nav li{height: 35px;}
+    .nav li .v1{line-height: 35px;}
+    .menuBtn{right: 2px;}
+    #banner{height: 250px;}
+    #banner .tit{width: auto;text-align: center;margin-top: 40px;}
+    #ban .tit{margin-top: 55px;width: auto;text-align: center;}
+    .warp{width: auto;}
+    .g-t1{font-size: 18px;}
+    .row-1 .col-l{padding: 20px 10px;}
+    .g-t1{margin-bottom: 5px;}
+    .row-1 .col-c .g-t1{margin-left: 10px;}
+    .row-1 .col-r{padding: 20px 10px;}
+    .index-results .pic{margin-bottom: 10px;}
+    .index-results h4{margin-bottom: 5px;}
+    .index-results h4 a{font-size: 15px;}
+    .fd-top{font-size: 12px;line-height: 18px;}
+    .fd-copy{text-align: center;line-height: 22px;padding: 10px 0;}
+    .fd-copy span{float: none;display: block;}
+
+    
+
+    .m-tab li{margin: 0 8px 10px;}
+    .m-tab li a{font-size: 14px;}
+
+    /*清华科研项目*/
+    .m-article h1{margin-bottom: 10px;font-size: 16px;}
+    .m-article p{margin-bottom: 5px;line-height: 20px;font-size: 12px;}
+    .m-article h4{padding: 10px 0;font-size: 14px;}
+
+    /*清华科研项目-列表*/
+    .ul-list-1{margin: 10px 0;}
+    .ul-list-1 li{float: none;margin-bottom: 10px;padding: 0 5px;width: auto;}
+    .ul-list-1 h3{height: auto;-webkit-line-clamp: 1;}
+
+    /*清华新闻页*/
+    .ul-list-2 .txt{margin-left: 48px;}
+    .ul-list-2 .txt h3{padding-bottom: 10px;font-size: 16px;}
+    .ul-list-2 .txt p{margin-top: 8px;height: 60px;line-height: 20px;font-size: 12px;}
+} 
+
